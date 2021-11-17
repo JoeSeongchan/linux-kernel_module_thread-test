@@ -1,0 +1,1 @@
+/usr/lib/ccache/gcc -g CMakeFiles/linux_kernel_module_thread_test.dir/src/test_kernel_thread_module.c.o CMakeFiles/linux_kernel_module_thread_test.dir/src/utilities.c.o -o linux_kernel_module_thread_test 
